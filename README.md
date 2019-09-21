@@ -1,2 +1,0 @@
-# framer
-Created with CodeSandbox
